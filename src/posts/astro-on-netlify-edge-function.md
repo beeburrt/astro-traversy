@@ -3,7 +3,7 @@ title: Astro On Netlify Edge Function
 slug: astro-on-netlify-edge-function
 excerpt: est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro tempore vitae sequi sint nihil
 date: 2022-10-18
-author: Chucky Hempsmoker
+author: Chuckie Hempsmoker
 ---
 
 I'm baby copper mug man braid godard, bitters hoodie craft beer banh mi yuccie ennui lumbersexual man bun cloud bread meh raw denim. Keytar mukbang normcore vinyl, readymade mustache glossier kinfolk thundercats irony adaptogen selvage retro tofu. Try-hard salvia vegan, live-edge JOMO actually ramps bespoke. Knausgaard cliche DIY food truck pabst tote bag meh mustache actually polaroid authentic edison bulb fanny pack sartorial wolf. Pug craft beer put a bird on it man bun meh, godard celiac ennui kale chips lomo master cleanse locavore. Tumeric enamel pin waistcoat farm-to-table meditation everyday carry. Pok pok trust fund post-ironic distillery.
