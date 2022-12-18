@@ -4,7 +4,7 @@ This is a website I made with [this](https://www.youtube.com/watch?v=Oi9z5gfIHJs
 
 ## Here's a pic of how it turned out
 
-![Astro demo website](../../src/images/astro-screenshot.png)
+![Astro demo website](./public/astro-screenshot.png)
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
