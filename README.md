@@ -13,4 +13,5 @@ Check it out on Netlify [here](https://beeburrt-astro-demo.netlify.app/)
 And here's Brad's [GitHub repo](https://github.com/bradtraversy/astro-crash-course) for this project
 
 [Astro documentation](https://docs.astro.build)
+
 [Discord server](https://astro.build/chat)
