@@ -1,4 +1,4 @@
-# [Astro](https://astro.build) is pretty sweet
+# [Astro](https://astro.build) is pretty flippen sweet!
 
 This is a website I made with [this Brad Traversy](https://www.youtube.com/watch?v=Oi9z5gfIHJs) Astro tutorial
 
