@@ -8,7 +8,7 @@ This is a website I made with [this Brad Traversy](https://www.youtube.com/watch
 
 ## 👀
 
-Check it out on Netlify [here]()
+Check it out on Netlify [here](https://beeburrt-astro-demo.netlify.app/)
 
 And here's Brad's [GitHub repo](https://github.com/bradtraversy/astro-crash-course) for this project
 
